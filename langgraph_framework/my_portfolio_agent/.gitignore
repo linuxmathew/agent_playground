@@ -1,0 +1,22 @@
+    # Ignore compiled output
+    *.o
+    *.bin
+    target/
+
+    # Ignore build artifacts
+    build/
+    dist/
+
+    # Ignore environment variables and sensitive files
+    .env
+    config.local.js
+
+    # Ignore editor/IDE specific files
+    .vscode/
+    .idea/
+
+    # Ignore node modules
+    node_modules/
+
+    # Ignore logs
+    *.log

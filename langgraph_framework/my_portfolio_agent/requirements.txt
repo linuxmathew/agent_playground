@@ -1,0 +1,27 @@
+# =========================
+# File: requirements.txt
+# =========================
+# langgraph SDK name may vary; replace with your installed package if different.
+
+# fastapi
+# uvicorn
+# python-dotenv
+
+# Core dependencies
+langgraph
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+# Google Sheets + email integration
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+
+# LangGraph integration
+langgraph-sdk
+
+
+# start app then go to
+# http://127.0.0.1:8000/docs#/

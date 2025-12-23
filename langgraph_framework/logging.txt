@@ -1,0 +1,4 @@
+Logging History
+You: In not more than10 words, tell me about psychology
+AI: Scientific study of mind, behavior, and thought processes.
+End of conversation
